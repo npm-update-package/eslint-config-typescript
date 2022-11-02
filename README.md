@@ -1,5 +1,5 @@
-[![npm version](https://badge.fury.io/js/%40npm-update-package%2Feslint-config-typescript.svg)](https://badge.fury.io/js/%40npm-update-package%2Feslint-config-typescript)
-[![lint](https://github.com/rnpm-update-package/eslint-config-typescript/actions/workflows/lint.yml/badge.svg)](https://github.com/rnpm-update-package/eslint-config-typescript/actions/workflows/lint.yml)
+[![npm version](https://badge.fury.io/js/@npm-update-package%2Feslint-config-typescript.svg)](https://badge.fury.io/js/@npm-update-package%2Feslint-config-typescript)
+[![lint](https://github.com/npm-update-package/eslint-config-typescript/actions/workflows/lint.yml/badge.svg)](https://github.com/npm-update-package/eslint-config-typescript/actions/workflows/lint.yml)
 
 # @npm-update-package/eslint-config-typescript
 
