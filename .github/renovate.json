@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "github>npm-update-package/renovate-config"
+  ],
+  "labels": ["renovate"],
+  "packageRules": [
+    {
+      "matchManagers": ["npm"],
+      "enabled": false
+    }
+  ]
+}
