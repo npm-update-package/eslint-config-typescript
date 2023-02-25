@@ -1,5 +1,6 @@
 [![npm version](https://badge.fury.io/js/@npm-update-package%2Feslint-config-typescript.svg)](https://badge.fury.io/js/@npm-update-package%2Feslint-config-typescript)
 [![lint](https://github.com/npm-update-package/eslint-config-typescript/actions/workflows/lint.yml/badge.svg)](https://github.com/npm-update-package/eslint-config-typescript/actions/workflows/lint.yml)
+[![ESLint Recommended](https://img.shields.io/badge/eslint-recommended-%234B32C3)](https://github.com/eslint-recommended)
 
 # @npm-update-package/eslint-config-typescript
 
