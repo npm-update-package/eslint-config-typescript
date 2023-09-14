@@ -21,7 +21,6 @@ jobs:
           npx npm-update-package \
             --git-user-email 97396142+npm-update-package[bot]@users.noreply.github.com \
             --git-user-name npm-update-package[bot] \
-            --github-token $GITHUB_TOKEN \
-            --log-level trace
+            --github-token $GITHUB_TOKEN
         env:
           GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
